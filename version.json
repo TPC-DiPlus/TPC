@@ -1,6 +1,6 @@
 {
-  "versionCode": 668,
-  "versionName": "1.6.68",
+  "versionCode": 669,
+  "versionName": "1.6.69",
   "downloadUrl": "https://pan.xunlei.com/s/VOvPCLLINj5-fwV5VLITPAXxA1?channel=content_hash&content=%E8%BF%AA%E5%8A%A0TPC&from=BHO%2Fpaste%2Fkouling&pwd=p7xy&share_userid=1078946545&wd=%E8%BF%AA%E5%8A%A0TPC",
-  "changelog": "1、修复其他品牌手机通知显示不完整的问题。\n2、修复时间可能竖向的问题。"
+  "changelog": "1、修复聊天框可能无法收到图片的问题。"
 }
