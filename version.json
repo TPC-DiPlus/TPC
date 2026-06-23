@@ -1,6 +1,6 @@
 {
-  "versionCode": 665,
-  "versionName": "1.6.65",
+  "versionCode": 666,
+  "versionName": "1.6.66",
   "downloadUrl": "https://pan.xunlei.com/s/VOvPCLLINj5-fwV5VLITPAXxA1?channel=content_hash&content=%E8%BF%AA%E5%8A%A0TPC&from=BHO%2Fpaste%2Fkouling&pwd=p7xy&share_userid=1078946545&wd=%E8%BF%AA%E5%8A%A0TPC",
-  "changelog": "增加自动检测更新功能"
+  "changelog": "1、修复默认播放器时全景视频5分屏闪退的问题\n2、新增小米超级岛适配\n3、新增通知接收图片消息\n4、新增聊天框图片点击跳转对应视频播放器\n5、通知跳转优化不再重复打开界面\n6、聊天气泡深色模式适配\n7、时间格式统一为HH:mm:ss\n8、修复图片偶尔接收失败\n9、优化头像间距调整"
 }
