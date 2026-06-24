@@ -1,6 +1,6 @@
 {
-  "versionCode": 670,
-  "versionName": "1.6.70",
+  "versionCode": 671,
+  "versionName": "1.6.71",
   "downloadUrl": "https://pan.xunlei.com/s/VOvPCLLINj5-fwV5VLITPAXxA1?channel=content_hash&content=%E8%BF%AA%E5%8A%A0TPC&from=BHO%2Fpaste%2Fkouling&pwd=p7xy&share_userid=1078946545&wd=%E8%BF%AA%E5%8A%A0TPC",
-  "changelog": "1、修复聊天框偶尔接收不到图片消息的问题。\n2、增加长按图片查看大图的功能（哨兵上传的图片分辨率低）。\n3、优化保活。。"
+  "changelog": "1、新增视频长按2倍速播放功能。\n2、播放视频新增单个视频下载功能。\n3、新增设置备份功能。"
 }
