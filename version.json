@@ -2,5 +2,5 @@
   "versionCode": 672,
   "versionName": "1.6.72",
   "downloadUrl": "https://pan.xunlei.com/s/VOvPCLLINj5-fwV5VLITPAXxA1?channel=content_hash&content=%E8%BF%AA%E5%8A%A0TPC&from=BHO%2Fpaste%2Fkouling&pwd=p7xy&share_userid=1078946545&wd=%E8%BF%AA%E5%8A%A0TPC",
-  "changelog": "1、新增后台隐藏卡片功能，防止误关APP。\n2、新增勿扰功能。"
+  "changelog": "1、新增后台隐藏卡片功能，防止误关APP。\n2、新增勿扰功能。\n3、修复视频界面哨兵视频、全景视频、缩时录制可能换行问题"
 }
