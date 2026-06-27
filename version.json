@@ -1,6 +1,7 @@
 {
-  "versionCode": 672,
-  "versionName": "1.6.72",
-  "downloadUrl": "https://pan.xunlei.com/s/VOvPCLLINj5-fwV5VLITPAXxA1?channel=content_hash&content=%E8%BF%AA%E5%8A%A0TPC&from=BHO%2Fpaste%2Fkouling&pwd=p7xy&share_userid=1078946545&wd=%E8%BF%AA%E5%8A%A0TPC",
-  "changelog": "1、新增后台隐藏卡片功能，防止误关APP。\n2、新增勿扰功能。\n3、修复视频界面哨兵视频、全景视频、缩时录制可能换行问题"
+  "versionCode": 700,
+  "versionName": "1.7.0",
+  "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
+  "changelog": "1、更换下载网盘为夸克网盘。\n2、车辆状态页完全重写，编辑按钮替换为长按状态卡片或者左上角车辆状态，增加车控、空调控制等功能，图片可以更换，图片包在网盘里，解压使用（如果需要地图显示地名功能需要天地图的KEY
+  ，网盘有视频教程）。\n2、修复打开隐藏后台卡片功能导致软件退出的问题。\n3、修复视频界面哨兵视频、全景视频、缩时录制可能换行问题"
 }
