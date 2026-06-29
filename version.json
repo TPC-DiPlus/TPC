@@ -1,6 +1,6 @@
 {
-  "versionCode": 712,
-  "versionName": "1.7.12",
+  "versionCode": 713,
+  "versionName": "1.7.13",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "1、修复外网模式下车辆状态页面控车和空调按钮无法使用的问题。\n2、修复车辆状态页面状态卡片显示不完整的问题。\n3、设置新增将车辆状态页设置为APP主页功能。\n4、修复设置输入缓存导致重复的问题。"
+  "changelog": "1、新增发送消息、接收消息、控制按钮、空调控制面板对HTTPS网络支持。\n2、由于迪加HTTPGET不支持https，需要HTTPS穿透绑定子域名，教程在群里。"
 }
