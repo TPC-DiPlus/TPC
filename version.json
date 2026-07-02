@@ -1,6 +1,6 @@
 {
-  "versionCode": 714,
-  "versionName": "1.7.14",
+  "versionCode": 715,
+  "versionName": "1.7.15",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "1、新增发送消息、接收消息、控制按钮、空调控制面板对HTTPS网络支持。\n2、由于迪加不能直接使用HTTPS穿透，需要HTTPS穿透绑定子域名，教程在群里。\n3、优化通知提醒逻辑。\n4、增加定时勿扰功能。"
+  "changelog": "1、优化下载逻辑。\n2、修复本地哨兵视频无标注的问题。\n3、增加天地图网页KEY支持。"
 }
