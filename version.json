@@ -1,6 +1,6 @@
 {
-  "versionCode": 715,
-  "versionName": "1.7.15",
+  "versionCode": 716,
+  "versionName": "1.7.16",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "1、优化下载逻辑。\n2、修复本地哨兵视频无标注的问题。\n3、增加天地图网页KEY支持。"
+  "changelog": "1、增加胎压异常提醒，编辑状态下点击任意胎压设置阈值。\n2、增加离车下电未锁车提醒，长按地图选择车辆的BLE蓝牙（比亚迪APP控车蓝牙），设置阈值。\n3、增加手机与车辆定位距离显示（有点飘）"
 }
