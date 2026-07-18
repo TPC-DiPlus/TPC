@@ -1,6 +1,6 @@
 {
-  "versionCode": 719,
-  "versionName": "1.7.19",
+  "versionCode": 720,
+  "versionName": "1.7.20",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "1、车辆状态页面增加预计公里数显示。\n2、设置清理缓存功能增强，可清理视频、消息缓存。\n3、在线视频播放上一个视频下一个视频功能优化回归。"
+  "changelog": "1、优化网络逻辑。\n2、修复车辆状态页面再次点击车辆状态页面顶部通知栏变白色的问题。\n3、视频页和下载管理页面哨兵、全景、缩时标签增加支持屏幕左右滑动切换。"
 }
