@@ -1,6 +1,6 @@
 {
-  "versionCode": 720,
-  "versionName": "1.7.20",
+  "versionCode": 721,
+  "versionName": "1.7.21",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "1、优化网络逻辑。\n2、修复车辆状态页面再次点击车辆状态页面顶部通知栏变白色的问题。\n3、视频页和下载管理页面哨兵、全景、缩时标签增加支持屏幕左右滑动切换。"
+  "changelog": "1、优化哨兵视频播放时，进度条上面的人、车标签。\n2、修复一些问题，优化APP。"
 }
