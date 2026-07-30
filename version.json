@@ -1,8 +1,8 @@
 {
-  "versionCode": 721,
-  "versionName": "1.7.21",
+  "versionCode": 722,
+  "versionName": "1.7.22",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "1、优化哨兵视频播放时，进度条上面的人、车标签。\n2、修复一些问题，优化APP。\n3、更新链接里面增加TPC网页版，有兴趣的可以试试。",
+  "changelog": "1、优化APP后台内存占用。\n2、增加行驶数据，点击地图板块显示。\n3、增加充电数据显示，点击车辆状态也没面右上角的电量图标（可查看每次充电的关联里程）。\n4、新功能需要迪加升级到1.8.0b1-t2以上。",
 
   "webVersion": "1.0.1",
   "webDownloadUrl": "https://pan.quark.cn/s/xxx?pwd=xxx",
