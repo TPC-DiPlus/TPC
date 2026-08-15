@@ -1,8 +1,8 @@
 {
-  "versionCode": 800,
-  "versionName": "1.8.0",
+  "versionCode": 801,
+  "versionName": "1.8.1",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "1、优化APP后台内存占用。\n2、适配迪加2.0版本。\n3、重写充电记录、行程记录。\n4、增加行程记录轨迹。\n5、增加行程记录轨迹点，可直接跳转对应的行车记录仪及时间。\n6、增加有效期提醒。\n7、新功能需要迪加升级到2.0及以上版本。",
+  "changelog": "1、优化APP后台内存占用。\n2、适配迪加2.0版本。\n3、重写充电记录、行程记录。\n4、增加行程记录轨迹。\n5、增加行程记录轨迹点，可直接跳转对应的行车记录仪及时间。\n6、增加有效期提醒，编辑模式下可自定义提醒时间。\n7、修复1.8.0更新不弹窗的问题。\n8、新功能需要迪加升级到2.0及以上版本。",
 
   "webVersion": "1.0.3",
   "webDownloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
