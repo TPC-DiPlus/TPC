@@ -1,8 +1,8 @@
 {
-  "versionCode": 803,
-  "versionName": "2.0.1",
+  "versionCode": 804,
+  "versionName": "2.0.2",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "修复2.0.0版本内外网切换闪退问题\n1、修复有效期通知设置了还是会提醒的问题。\n2、修复下载到本地的视频会被画质设置所影响导致无法播放的问题。\n3、导航栏和筛选适配液态玻璃。\n4、设置页面进行分类。\n5、液态玻璃完整适配沉浸小白条和沉浸状态栏。\n6、整个APP界面增加切换动画。\n7、新功能需要迪加升级到2.0及以上版本。",
+  "changelog": "1、增加轨迹点轨迹行驶动画吗。\n2、增加车辆、手机距离地图页面。\n3、优化有效期弹窗提醒。\n4、新增高程和速度曲线图。\n5、新增充电温度、电压、功率曲线图。",
 
   "webVersion": "1.1.0",
   "webDownloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
