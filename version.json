@@ -1,8 +1,8 @@
 {
-  "versionCode": 813,
-  "versionName": "2.3.0",
+  "versionCode": 815,
+  "versionName": "2.3.1",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "---新增车机端APP(用于和TPC通信)---\n1、增加MQTT功能。\n2、增加设备扫描功能。\n3、增加内网消息直发功能（节约流量）。\n4、优化APP内存占用。\n还加了哪些功能我也忘了。",
+  "changelog": "---部分功能需要用到车机端APP---\n1、增加MQTT功能。\n2、增加多端口扫描功能。\n3、增加内网消息直发功能（节约流量）。\n4、增加删除视频功能。\n5、增加多选功能。\n6、增加轨迹点显示实时图片功能。\n7、新增9999端口支持。\n8、修复车辆位置界面顶部到状态栏的问题。\n9、优化app后台占用。\n10、车机端更新较多，但都是配合TPC的功能，就不写了，群里有使用教程。",
 
   "webVersion": "1.1.0",
   "webDownloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
