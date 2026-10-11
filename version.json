@@ -1,5 +1,5 @@
 {
-  "versionCode": 815,
+  "versionCode": "816",
   "versionName": "2.4.0",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
   "changelog": "---部分功能需要用到车机端APP---\n1、语音指令增加模糊指令映射表，不在局限于设置的映射。\n2、语音指令增加AI兜底。\n3、车机端与手机端增加删除key验证(两端需相同才能进行视频删除)。\n4、设置电价油价的输入位置修改到设置里程的位置。\n还改了些什么我忘记了。",
