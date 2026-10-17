@@ -1,8 +1,8 @@
 {
-  "versionCode": 817,
-  "versionName": "2.4.1",
+  "versionCode": 820,
+  "versionName": "2.5.0",
   "downloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
-  "changelog": "---部分功能需要用到车机端APP---\n1、修复行程超过一个半小时，轨迹点不完整的问题。\n2、修复https无法删除的问题。\n3、修复部分车机无法查看原车的问题。\n4、原车卡片增加开关。\n5、修复9999端口被固定的问题。\n6、优化APP大小。\n7、优化后台内存占用。\n8、车机端修复部分用户ADB授权不弹窗的问题。\n9、优化后台内存占用。10优化文件管理提示。11、设置增加数据导入导出功能。",
+  "changelog": "---部分功能需要用到车机端APP---\n1、TPC新增远程配置车机端。\n2、增加流量详细统计。\n3、修复小爱语言控制读取历史对话的问题。\n4、优化行程记录日期选择。\n5、增加无障碍提醒开关。\n6、车机端增加哨兵消息微信推送。\n7、修复车机端存储权限不弹窗的问题。",
 
   "webVersion": "1.1.0",
   "webDownloadUrl": "https://pan.quark.cn/s/95ca52dd4ae8?pwd=ZVmC",
